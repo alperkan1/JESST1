@@ -18,5 +18,8 @@
   "homepage": "https://github.com/alperkan1/JESST1#readme",
   "devDependencies": {
     "jest": "^27.3.1"
-  }
+  },
+  "keywords": [
+    "\"jest\""
+  ]
 }
